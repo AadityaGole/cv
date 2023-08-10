@@ -1,0 +1,18 @@
+body 
+{
+    background-color: #EAF6F6;
+}
+
+hr 
+{
+    border-style: none;
+    border-top: dotted;
+    border-color: rgb(255, 0, 43);
+    border-width: 5px;
+    width: 80%;
+}
+h1
+{
+    background-color: black;
+    color: orange;
+}
